@@ -1,7 +1,8 @@
 ### E ai meu chapa! 👋
 
-Meu nome é **Filipe** com `i`, sou entuasiasta de tecnologia, procuro usar a tecnologia para solucionar problemas no meu dia-a-dia e na minha empresa :office:. 
+Hi my name is **Filipe** with `i` not Felipe, i'm an enthusiasts technology, I try to figure it out how can I use the technology to solve my problems and for my bussiness :office:. 
 
-Como quem ensina aprende duas vezes vou postar aqui meus projetos para que possa servir de inspiração para outras pessoas.
+Part of my goal here is to show things that a learn to inspire others to grow up too. 
 
+Please consider follow me on Instragram.
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ofilipebezerra/)
