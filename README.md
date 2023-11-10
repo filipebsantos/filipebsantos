@@ -5,4 +5,4 @@ Hi my name is **Filipe** with `i` not Felipe, i'm an enthusiasts technology, I t
 Part of my goal here is to show things that a learn to inspire others to grow up too. 
 
 Please consider follow me on Instragram.
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ofilipebezerra/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/filipebezerra.dev.br/)
