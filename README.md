@@ -1,6 +1,6 @@
 ### E ai meu chapa! 👋
 
-Hi my name is **Filipe** with `i` not Felipe, i'm an enthusiasts technology, I try to figure it out how can I use the technology to solve my problems and for my bussiness :office:. 
+Hi my name is **Filipe**, i'm an enthusiasts technology and dev for fun! I try to figure it out how can I use technology to solve problems for me and my bussiness :office:. 
 
 Part of my goal here is to show things that a learn to inspire others to grow up too. 
 
