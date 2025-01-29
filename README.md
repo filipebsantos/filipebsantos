@@ -16,4 +16,5 @@ Aqui no GitHub, compartilho o que aprendo ao longo da jornada, na esperança de 
 Me siga no Instagram para acompanhar minhas experiências e projetos:  
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/filipebezerra.dev.br/)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipebezerra-dev-br)](https://www.linkedin.com/in/filipebezerra-dev-br)
 
