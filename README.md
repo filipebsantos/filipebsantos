@@ -1,4 +1,4 @@
-![top_banner](https://filipebezerra.dev.br/wp-content/uploads/2024/10/top_banner-scaled.jpg)
+![top_banner]([https://filipebezerra.dev.br/assets/imgs/top_banner.webp])
 
 ## E aí, meu chapa! 👋  
 
