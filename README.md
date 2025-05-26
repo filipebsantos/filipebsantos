@@ -1,4 +1,4 @@
-![top_banner]([top_banner.jpg])
+![top_banner](top_banner.jpg)
 
 ## E aí, meu chapa! 👋  
 
